@@ -1,0 +1,14 @@
+C:\Users\kroni\Documents\Coding Projects\C#\Trainers\UniversalTrainer\bin\Debug\UniversalTrainer.exe.config
+C:\Users\kroni\Documents\Coding Projects\C#\Trainers\UniversalTrainer\bin\Debug\UniversalTrainer.exe
+C:\Users\kroni\Documents\Coding Projects\C#\Trainers\UniversalTrainer\bin\Debug\UniversalTrainer.pdb
+C:\Users\kroni\Documents\Coding Projects\C#\Trainers\UniversalTrainer\bin\Debug\Memory.dll
+C:\Users\kroni\Documents\Coding Projects\C#\Trainers\UniversalTrainer\bin\Debug\Memory.xml
+C:\Users\kroni\Documents\Coding Projects\C#\Trainers\UniversalTrainer\obj\Debug\UniversalTrainer.csproj.AssemblyReference.cache
+C:\Users\kroni\Documents\Coding Projects\C#\Trainers\UniversalTrainer\obj\Debug\UniversalTrainer.csproj.SuggestedBindingRedirects.cache
+C:\Users\kroni\Documents\Coding Projects\C#\Trainers\UniversalTrainer\obj\Debug\UniversalTrainer.TrainerUI.resources
+C:\Users\kroni\Documents\Coding Projects\C#\Trainers\UniversalTrainer\obj\Debug\UniversalTrainer.Properties.Resources.resources
+C:\Users\kroni\Documents\Coding Projects\C#\Trainers\UniversalTrainer\obj\Debug\UniversalTrainer.csproj.GenerateResource.cache
+C:\Users\kroni\Documents\Coding Projects\C#\Trainers\UniversalTrainer\obj\Debug\UniversalTrainer.csproj.CoreCompileInputs.cache
+C:\Users\kroni\Documents\Coding Projects\C#\Trainers\UniversalTrainer\obj\Debug\UniversalTrainer.csproj.CopyComplete
+C:\Users\kroni\Documents\Coding Projects\C#\Trainers\UniversalTrainer\obj\Debug\UniversalTrainer.exe
+C:\Users\kroni\Documents\Coding Projects\C#\Trainers\UniversalTrainer\obj\Debug\UniversalTrainer.pdb
